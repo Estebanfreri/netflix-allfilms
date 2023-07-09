@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    text-align: center;
+   
+    border-bottom: 3px solid rgb(208, 50, 50);
+    background-color: rgb(6, 4, 0);
+    color: aliceblue;
+    padding: 0.5rem;
+}
+
+
+
